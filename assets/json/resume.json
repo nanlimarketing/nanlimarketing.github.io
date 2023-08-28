@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Nan Li",
-    "label": "Scientist",
+    "label": "",
     "image": "",
     "email": "nanli88@tongji.edu.cn",
     "phone": "(912) 123-4567",
@@ -44,7 +44,17 @@
       "endDate": "2019-06-01",
       "score": "",
       "courses": []
-    }
+    },
+    {
+      "institution": "Southeast University",
+      "url": "https://www.seu.edu.cn/english/",
+      "area": "Economics",
+      "studyType": "MS",
+      "startDate": "2010-09-01",
+      "endDate": "2013-06-01",
+      "score": "",
+      "courses": []
+    },
   ],
   "awards": [
     {
