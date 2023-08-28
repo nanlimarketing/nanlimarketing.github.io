@@ -4,7 +4,7 @@
     "label": "",
     "image": "",
     "email": "nanli88@tongji.edu.cn",
-    "phone": "(912) 123-4567",
+    "phone": "",
     "url": "https://nanlimarketing.github.io/",
     "summary": "",
     "location": {
@@ -54,12 +54,22 @@
       "endDate": "2013-06-01",
       "score": "",
       "courses": []
+    },
+    {
+      "institution": "Guangdong University of Foreign Studies",
+      "url": "https://iie-en.gdufs.edu.cn/",
+      "area": "English for Business",
+      "studyType": "BA",
+      "startDate": "2006-09-01",
+      "endDate": "2010-06-01",
+      "score": "",
+      "courses": []
     }
   ],
   "awards": [
     {
       "title": "Manamgent Science marketing dept. best paper awards finalists",
-      "date": "2023-03-01",
+      "date": "2023-03",
       "awarder": "INFORMS",
       "summary": ""
     }

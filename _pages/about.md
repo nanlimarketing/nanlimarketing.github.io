@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://aib.tongji.edu.cn/96/63/c17222a169571/page.htm'>Tongji University</a>. nanli88@tongji.edu.cn
+subtitle: nanli88@tongji.edu.cn
 
 profile:
   align: right
@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor of Marketing at the Advance Institute of Business, School of Economics and Management, Tongji University.
+I am an Assistant Professor of Marketing at the [Advance Institute of Business](https://aib.tongji.edu.cn/), School of Economics and Management, Tongji University.
 
 <b>Research interest</b>
 
