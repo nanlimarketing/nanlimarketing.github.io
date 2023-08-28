@@ -13,7 +13,7 @@ nav_order: 1
 
 </div>
 
-<div class="Working papers">
+<!-- <div class="Working papers">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
@@ -23,4 +23,4 @@ nav_order: 1
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
-</div>
+</div> -->
