@@ -44,27 +44,7 @@
       "endDate": "2019-06-01",
       "score": "",
       "courses": []
-    },
-    {
-      "institution": "Southeast University",
-      "url": "https://www.seu.edu.cn/english/",
-      "area": "Economics",
-      "studyType": "M.S.",
-      "startDate": "2010-09-01",
-      "endDate": "2013-06-01",     
-      "score": "",
-      "courses": []   
-    },
-    {
-      "institution": "Guangdong University of Foreign Studies",
-      "url": "https://iie-en.gdufs.edu.cn/",
-      "area": "English for Business",
-      "studyType": "B.A.",
-      "startDate": "2006-07-01",
-      "endDate": "2010-06-01",   
-      "score": "",
-      "courses": []   
-    },
+    }
   ],
   "awards": [
     {
