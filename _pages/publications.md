@@ -15,10 +15,8 @@ nav_order: 1
 
 </div>
 
--------
-<b>Working Papers</b>
 <div class="publications">
-
+<b>Working Papers</b>
 {% bibliography -f working_papers %}
 
 </div>
