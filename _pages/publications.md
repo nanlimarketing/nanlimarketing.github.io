@@ -12,15 +12,3 @@ nav_order: 1
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
-
-<!-- <div class="Working papers">
-
-{% bibliography -f {{ site.scholar.bibliography }} %}
-
-</div>
-
-<div class="Work-in-Progress">
-
-{% bibliography -f {{ site.scholar.bibliography }} %}
-
-</div> -->
