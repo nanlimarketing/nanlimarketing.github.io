@@ -1,12 +1,9 @@
 {
   "Basics": {
     "name": "Nan Li",
-    // "label": "Scientist",
     "image": "",
     "email": "nanli88@tongji.edu.cn",
-    // "phone": "(912) 123-4567",
     "url": "https://nanlimarketing.github.io/",
-    // "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "Room 2130, Tongji Building A, No. 1500 Siping Road",
       "postalCode": "200092",
@@ -14,24 +11,13 @@
       "countryCode": "CN",
       "region": "Shanghai"
     },
-    // "profiles": [
-    //   {
-    //     "network": "Twitter",
-    //     "username": "AlbertEinstein",
-    //     "url": "https://twitter.com/AlbertEinstein"
-    //   }
-    // ]
   },
   "Employment": [
     {
       "name": " Advanced Institute of Business, School of Economics and Management, Tongji University",
       "position": "Assistant Professor of Marketing",
-      // "url": "https://example.com",
       "startDate": "2019-07-01",
       "endDate": "present",
-      // "highlights": [
-      //   "Relativity"
-      // ]
     }
   ],
   "volunteer": [],
@@ -43,10 +29,6 @@
       "studyType": "PhD",
       "startDate": "2013-08-18",
       "endDate": "2019-06-01",
-      // "score": "",
-      // "courses": [
-      //   "Theory of Relativity"
-      // ]
     },
     {
       "institution": "Southeast University",
@@ -55,10 +37,6 @@
       "studyType": "M.S.",
       "startDate": "2010-09-01",
       "endDate": "2013-06-01",
-      // "score": "",
-      // "courses": [
-      //   "Theory of Relativity"
-      // ]
     },
     {
       "institution": "Guangdong University of Foreign Studies",
@@ -67,10 +45,6 @@
       "studyType": "B.A.",
       "startDate": "2006-07-01",
       "endDate": "2010-06-01",
-      // "score": "",
-      // "courses": [
-      //   "Theory of Relativity"
-      // ]
     }
   ],
   "Awards": [
@@ -78,8 +52,7 @@
       "title": "Manamgent Science marketing dept. best paper awards finalists",
       "date": "2023-02-01",
       "awarder": "INFORMS",
-      // "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+      }
   ],
   "certificates": [],
   "publications": [],
