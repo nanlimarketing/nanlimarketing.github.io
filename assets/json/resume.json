@@ -1,5 +1,5 @@
 {
-  "Basics": {
+  "basics": {
     "name": "Nan Li",
     "image": "",
     "email": "nanli88@tongji.edu.cn",
@@ -10,9 +10,9 @@
       "city": "Shanghai",
       "countryCode": "CN",
       "region": "Shanghai"
-    },
+    }
   },
-  "Employment": [
+  "employment": [
     {
       "name": " Advanced Institute of Business, School of Economics and Management, Tongji University",
       "position": "Assistant Professor of Marketing",
@@ -21,7 +21,7 @@
     }
   ],
   "volunteer": [],
-  "Education": [
+  "education": [
     {
       "institution": "University of Rochester",
       "url": "https://www.rochester.edu/",
@@ -47,7 +47,7 @@
       "endDate": "2010-06-01",
     }
   ],
-  "Awards": [
+  "awards": [
     {
       "title": "Manamgent Science marketing dept. best paper awards finalists",
       "date": "2023-02-01",
