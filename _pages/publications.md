@@ -8,15 +8,24 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 
--------
+<b>Publication</b>
 <div class="publications">
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
+
+-------
+<b>Working Papers</b>
+<div class="publications">
+
+{% bibliography -f working_papers %}
+
+</div>
+
 -------
 
-Work-in-Progress
+<b>Work-in-Progress</b>
 
 - "Are Goal Achievements Effective in Driving Product Usage? Evidence from a Video Game Platform", with Honglin Deng
-- "Does Competition Result in Excessive Clickbaits in News?" with Yi Tang
+- "Does Competition Result in Excessive Clickbaits in News?", with Yi Tang
