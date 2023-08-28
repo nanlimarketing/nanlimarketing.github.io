@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Tongji University</a>. nanli88@tongji.edu.cn
+subtitle: <a href='https://aib.tongji.edu.cn/96/63/c17222a169571/page.htm'>Tongji University</a>. nanli88@tongji.edu.cn
 
 profile:
   align: right
@@ -21,4 +21,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am an Assistant Professor of Marketing at the Advance Institute of Business, School of Economics and Management, Tongji University.
 
-Research interest: Quantitative marketing; Empirical industrial organization; Digital platform; Demand spillover; Causal inference; Structural model; Entertainment and high-tech industry.
+<b>Research interest</b>
+
+Quantitative marketing; Empirical industrial organization; Digital platform; Demand spillover; Causal inference; Structural model; Entertainment and high-tech industry.

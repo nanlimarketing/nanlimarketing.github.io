@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Nan
 middle_name: 
-last_name: Li
+last_name: Li (李楠)
 email: nanli88@tongji.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon:   # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://nanlimarketing.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -273,10 +273,10 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Nan]
-  first_name: [Li]
+  last_name: [Li]
+  first_name: [Nan]
 
-  style: dependent/management-science
+  style: dependent/journal-of-marketing-research
   locale: en
 
   source: /_bibliography/
