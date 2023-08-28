@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Room 2130, Tongji Building A</p>
+    <p>Room 2130</p>
+    <p>Tongji Building A</p>
     <p>No. 1500 Siping Road</p>
     <p>Shanghai 200092, China</p>
 
