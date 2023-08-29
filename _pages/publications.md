@@ -9,17 +9,19 @@ nav_order: 1
 <!-- _pages/publications.md -->
 
 <b>Publication</b>
-<div class="publications">
+<!-- <div class="publications"> -->
 
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
-</div>
+<!-- </div> -->
 
-<div class="publications">
+-------
+<!-- <div class="publications"> -->
 <b>Working Papers</b>
+
 {% bibliography -f working_papers %}
 
-</div>
+<!-- </div> -->
 
 -------
 
