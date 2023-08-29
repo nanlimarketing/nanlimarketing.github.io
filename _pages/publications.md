@@ -25,6 +25,7 @@ nav_order: 1
 
 
 <b>Work-in-Progress</b>
+
 -------
 
 - "Are Goal Achievements Effective in Driving Product Usage? Evidence from a Video Game Platform", with Honglin Deng
