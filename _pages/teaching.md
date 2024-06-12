@@ -7,8 +7,11 @@ nav: true
 nav_order: 5
 ---
 
+Data Mining and Text Mining (graduate)
+- Spring 2024
+
 Methods in Marketing Research (graduate)
 - Spring 2020, Fall 2021
 
 Service Marketing (undergraduate)
-- Fall 2022, Fall 2023
+- Fall 2022
