@@ -15,10 +15,10 @@ nav_order: 1
 
 </div>
 
-<b>Accepted and published papers</b>
+<b>Accepted and Published Papers</b>
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography -f papers %}
 
 </div>
 

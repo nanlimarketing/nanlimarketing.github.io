@@ -14,4 +14,4 @@ Methods in Marketing Research (graduate)
 - Spring 2020, Fall 2021
 
 Service Marketing (undergraduate)
-- Fall 2022
+- Fall 2022, Fall 2024
