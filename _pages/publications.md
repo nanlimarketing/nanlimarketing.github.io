@@ -26,6 +26,7 @@ nav_order: 1
 
 -------
 
+- "Buy Now, Play Never: Why Consumers Purchase Things They Don’t Use", with Avery Haviv
 - "Are Goal Achievements Effective in Driving Product Usage? Evidence from a Video Game Platform", with Honglin Deng and Heng Zhao
 - "Does Competition Result in Excessive Clickbaits in News?", with Yi Tang
 - "Competition and Planned Obsolescence - Evidence from Discrete GPU Market"
