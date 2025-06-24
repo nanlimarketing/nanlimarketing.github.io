@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor of Marketing at the [Advance Institute of Business](https://aib.tongji.edu.cn/), School of Economics and Management, Tongji University.
+I am an Assistant Professor of Marketing at the [Advance Institute of Business](https://aib.tongji.edu.cn/), School of Economics and Management, Tongji University. I will be joining College of Business, Shanghai University of Finance and Economics this July.
 
 <b>Research interest</b>
 
