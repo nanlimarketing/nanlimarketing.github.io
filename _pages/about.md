@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: nanli88@tongji.edu.cn
+subtitle: nanlimarketing@gmail.com
 
 profile:
   align: right
