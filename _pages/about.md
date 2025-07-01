@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: nanlimarketing@gmail.com
+subtitle: Email: linan at mail.sufe.edu.cn
 
 profile:
   align: right
