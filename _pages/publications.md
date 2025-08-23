@@ -26,7 +26,6 @@ nav_order: 1
 
 -------
 
-- "Buy Now, Play Never: Why Consumers Purchase Things They Don’t Use", with Avery Haviv
 - "Are Goal Achievements Effective in Driving Product Usage? Evidence from a Video Game Platform", with Hongling Deng and Heng Zhao
 - "The Impact of Climate Change on Firms' ESG Disclosure Decision" with Yuxin Chen, Zhen Fang and Zhe Zhang
-- "Competition and Planned Obsolescence - Evidence from Discrete GPU Market"
+- "Competition and Planned Obsolescence - Evidence from Discrete GPU Market
