@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: linan@mail.sufe.edu.cn
+subtitle: "linan(at)mail(dot)shufe(dot)edu(dot)cn"
 
 profile:
   align: right
