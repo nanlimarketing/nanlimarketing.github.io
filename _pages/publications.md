@@ -25,6 +25,7 @@ nav_order: 1
 <b>Selected Work-in-Progress</b>
 
 -------
+
 - "Price Cuts Without Savings: The Unintended Consequences of Centralized Drug Procurement", with Xu Li, Yuanchen Li, Xiuguo Song and Heng Zhao
 - "Are Goal Achievements Effective in Driving Product Usage? Evidence from a Video Game Platform", with Hongling Deng and Heng Zhao
 - "The Impact of Climate Change on Firms' ESG Disclosure Decision" with Yuxin Chen, Zhen Fang and Zhe Zhang
