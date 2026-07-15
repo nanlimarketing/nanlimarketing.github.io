@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Room 321</p>
-    <p>College of Business A</p>
+    <p>College of Business</p>
     <p>100 Wudong Road</p>
     <p>Shanghai 200433, China</p>
 

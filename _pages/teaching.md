@@ -7,17 +7,19 @@ nav: true
 nav_order: 5
 ---
 
-Econometrics (undergraduate)
+**Undergraduates**
+Econometrics, SHUFE
 - Fall 2025
 
-Methods and Models for Data Analysis (graduate)
+Service Marketing, Tongji University
+- Fall 2022, Fall 2024
+
+**Graduates**
+Methods and Models for Data Analysis, SHUFE
 - Fall 2025
 
-Data Mining and Text Mining (graduate)
+Data Mining and Text Mining, Tongji University
 - Spring 2024, Spring 2025
 
-Methods in Marketing Research (graduate)
+Methods in Marketing Research, Tongji University
 - Spring 2020, Fall 2021
-
-Service Marketing (undergraduate)
-- Fall 2022, Fall 2024
