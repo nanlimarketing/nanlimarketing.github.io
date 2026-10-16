@@ -2,10 +2,11 @@
 layout: page
 permalink: /research/
 title: Research
-description: 
+description:
 nav: true
 nav_order: 1
 ---
+
 <!-- _pages/publications.md -->
 
 <b>Working Papers</b>
@@ -24,7 +25,7 @@ nav_order: 1
 
 <b>Selected Work-in-Progress</b>
 
--------
+---
 
 - "Are Goal Achievements Effective in Driving Product Usage? Evidence from a Video Game Platform", with Hongling Deng and Heng Zhao
 - "The Effects of Clickbait Titles on the Demand of Online Sports News", with Wen Diao and Yi Tang

@@ -8,16 +8,18 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  more_info: >
     <p>Room 321</p>
     <p>College of Business</p>
     <p>100 Wudong Road</p>
     <p>Shanghai 200433, China</p>
 
-news: false  # includes a list of news items
-latest_posts: false  # includes a list of the newest posts
+announcements:
+  enabled: false
+latest_posts:
+  enabled: false
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false # Preserve the original site's hidden bottom social block.
 ---
 
 I am an Associate Professor of Marketing at the [College of Business](https://cob.sufe.edu.cn/), Shanghai University of Finance and Economics.

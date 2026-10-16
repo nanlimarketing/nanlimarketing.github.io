@@ -1,12 +1,8 @@
 {
   "basics": {
     "name": "Nan Li",
-    "label": "",
-    "image": "",
     "email": "linan(at)mail(dot)sufe(dot)edu(dot)cn",
-    "phone": "",
     "url": "https://nanlimarketing.github.io/",
-    "summary": "",
     "location": {
       "address": "Room 321, College of Business, 100 Wudong Road",
       "postalCode": "200433",
@@ -28,21 +24,16 @@
       "position": "Associate Professor of Marketing",
       "url": "https://example.com",
       "startDate": "2025-07-01",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": []
+      "endDate": "Present"
     },
     {
       "name": "Advanced Institute of Business, School of Economics and Management, Tongji University",
       "position": "Assistant Professor of Marketing",
       "url": "https://example.com",
       "startDate": "2019-07-01",
-      "endDate": "2025-06-30",
-      "summary": "",
-      "highlights": []
+      "endDate": "2025-06-30"
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "University of Rochester",
@@ -50,9 +41,7 @@
       "area": "Business Adminstration",
       "studyType": "PhD",
       "startDate": "2013-08-18",
-      "endDate": "2019-06-01",
-      "score": "",
-      "courses": []
+      "endDate": "2019-06-01"
     },
     {
       "institution": "Southeast University",
@@ -60,9 +49,7 @@
       "area": "Economics",
       "studyType": "MS",
       "startDate": "2010-09-01",
-      "endDate": "2013-06-01",
-      "score": "",
-      "courses": []
+      "endDate": "2013-06-01"
     },
     {
       "institution": "Guangdong University of Foreign Studies",
@@ -70,22 +57,16 @@
       "area": "English for Business",
       "studyType": "BA",
       "startDate": "2006-09-01",
-      "endDate": "2010-06-01",
-      "score": "",
-      "courses": []
+      "endDate": "2010-06-01"
     }
   ],
   "awards": [
     {
       "title": "Manamgent Science marketing dept. best paper awards finalists",
       "date": "2023-03",
-      "awarder": "INFORMS",
-      "summary": ""
+      "awarder": "INFORMS"
     }
   ],
-  "certificates": [],
-  "publications": [],
-  "skills": [],
   "languages": [
     {
       "language": "Mandarin Chinese",
@@ -98,9 +79,6 @@
     {
       "language": "Spanish",
       "fluency": "Basic"
-    }    
-  ],
-  "interests": [],
-  "references": [],
-  "projects": []
+    }
+  ]
 }
