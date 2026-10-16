@@ -24,4 +24,4 @@ I am an Associate Professor of Marketing at the [College of Business](https://co
 
 <b>Research interest</b>
 
-Quantitative marketing; Empirical industrial organization; Digital platform; Demand spillover; Causal inference; Structural model; Entertainment and high-tech industry.
+Quantitative marketing; Empirical industrial organization; Digital platform; Demand spillover; Causal inference; Structural model; Entertainment and high-tech industry; Healthcare.
